@@ -1,0 +1,15 @@
+<descriptor>
+    <version>0.6</version>
+    <accesses>
+        <access>led</access>
+        <access>ears</access>
+        <access>button</access>
+        <access>webcam</access>
+        <access>asr</access>
+        <access>tts</access>
+        <access>multimedia</access>
+        <access>rfid</access>
+        <access>file</access>
+    </accesses>
+	<deployment>external</deployment>
+</descriptor>
